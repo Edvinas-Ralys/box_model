@@ -1,0 +1,26 @@
+body{
+
+}
+h1{
+    text-align: center;
+    color: coral;
+}
+p{
+    text-align: center;
+    color: burlywood;
+    border: 2px solid lightslategray;
+    padding: 20px;
+    background-color: salmon;
+    font-size: 20px;
+    width:500px;
+    margin: 0 auto
+}
+.links{
+    border: 2px solid purple;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 20px;
+}
+.outro{
+    border:2px solid yellow;
+}
